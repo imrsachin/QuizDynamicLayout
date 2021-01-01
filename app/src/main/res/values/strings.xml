@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">QuizDynamicLayout</string>
+    <string name="app_name">Dynamic Layout</string>
+
+    <string name="submit">SUBMIT</string>
+
+    <string name="question">Q%1$d. %2$s</string>
+
+    <string name="score_result">You scored %1$d out of %2$d</string>
 </resources>
