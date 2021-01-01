@@ -1,13 +1,10 @@
-package com.example.dynamiclayout
+package com.onlinehowtodo.quizdynamiclayout
 
 import android.content.res.Resources
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Gravity
 import android.widget.*
-import com.onlinehowtodo.quizdynamiclayout.Question
-import com.onlinehowtodo.quizdynamiclayout.QuestionType
-import com.onlinehowtodo.quizdynamiclayout.R
 import java.util.*
 
 const val margin: Int = 16
